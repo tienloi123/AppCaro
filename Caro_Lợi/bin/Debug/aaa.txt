@@ -1,0 +1,16 @@
+Tổng trận thắng của người chơi a với quân X:1
+Tổng trận thắng của người chơi b với quân O:0
+Tổng số trận của cả 2 người chơi 1
+Tổng số lần Undo của người chơi a trong ván đấu: 0
+Tổng số lần Undo của người chơi b trong ván đấu: 2
+Tổng số lần Undo của người chơi 0 trong ván đấu: 0
+Tổng số lần Undo của người chơi 0 trong ván đấu: 1
+Tổng số lần Undo của người chơi 1 trong ván đấu: 0
+Tổng số lần Undo của người chơi 1 trong ván đấu: 1
+Tổng số lần Undo của người chơi 1 trong ván đấu: 1
+Tổng số lần Undo của người chơi 2 trong ván đấu: 0
+Tổng số lần Undo của người chơi 2 trong ván đấu: 1
+Tổng số lần Undo của người chơi 2 trong ván đấu: 1
+Tổng số lần Undo của người chơi 3 trong ván đấu: 0
+Tổng số lần Undo của người chơi 3 trong ván đấu: 1
+Tổng số lần Undo của người chơi 4 trong ván đấu: 0

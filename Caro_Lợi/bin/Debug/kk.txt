@@ -1,0 +1,24 @@
+Tổng trận thắng của người chơi a với quân X:1
+Tổng trận thắng của người chơi b với quân O:0
+Tổng số trận của cả 2 người chơi 1
+-----------------------------------------------------------------------------------
+Tổng số lần Undo của người chơi a trong ván đấu: 0
+Tổng số lần Undo của người chơi b trong ván đấu: 0
+-----------------------------------------------------------------------------------
+---- Vì là mảng 2 chiều nên vị trí tọa độ x và y bắt đầu là 0 thay vì 1------------
+Người chơi b: Tọa độ x: 10, Tọa độ y: 8
+Người chơi a: Tọa độ x: 9, Tọa độ y: 8
+Người chơi b: Tọa độ x: 9, Tọa độ y: 7
+Người chơi a: Tọa độ x: 8, Tọa độ y: 8
+Người chơi b: Tọa độ x: 11, Tọa độ y: 9
+Người chơi a: Tọa độ x: 9, Tọa độ y: 9
+Người chơi b: Tọa độ x: 8, Tọa độ y: 9
+Người chơi a: Tọa độ x: 8, Tọa độ y: 5
+Người chơi b: Tọa độ x: 8, Tọa độ y: 6
+Người chơi a: Tọa độ x: 9, Tọa độ y: 5
+Người chơi b: Tọa độ x: 9, Tọa độ y: 6
+Người chơi a: Tọa độ x: 10, Tọa độ y: 5
+Người chơi b: Tọa độ x: 10, Tọa độ y: 6
+Người chơi a: Tọa độ x: 11, Tọa độ y: 5
+Người chơi b: Tọa độ x: 11, Tọa độ y: 6
+Người chơi a: Tọa độ x: 12, Tọa độ y: 5

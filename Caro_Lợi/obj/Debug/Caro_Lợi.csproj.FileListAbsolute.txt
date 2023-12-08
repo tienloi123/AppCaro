@@ -1,0 +1,11 @@
+D:\bt_windows\Caro_Lợi\Caro_Lợi\bin\Debug\Caro_Lợi.exe.config
+D:\bt_windows\Caro_Lợi\Caro_Lợi\bin\Debug\Caro_Lợi.exe
+D:\bt_windows\Caro_Lợi\Caro_Lợi\bin\Debug\Caro_Lợi.pdb
+D:\bt_windows\Caro_Lợi\Caro_Lợi\obj\Debug\Caro_Lợi.csproj.AssemblyReference.cache
+D:\bt_windows\Caro_Lợi\Caro_Lợi\obj\Debug\Caro_Lợi.frmLoi.resources
+D:\bt_windows\Caro_Lợi\Caro_Lợi\obj\Debug\Caro_Lợi.Properties.Resources.resources
+D:\bt_windows\Caro_Lợi\Caro_Lợi\obj\Debug\Caro_Lợi.csproj.GenerateResource.cache
+D:\bt_windows\Caro_Lợi\Caro_Lợi\obj\Debug\Caro_Lợi.csproj.CoreCompileInputs.cache
+D:\bt_windows\Caro_Lợi\Caro_Lợi\obj\Debug\Caro_Lợi.exe
+D:\bt_windows\Caro_Lợi\Caro_Lợi\obj\Debug\Caro_Lợi.pdb
+D:\bt_windows\Caro_Lợi\Caro_Lợi\obj\Debug\Caro_Lợi.Guide.resources
